@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/linkosmos/htmlelements",
+	"GoVersion": "go1.4rc2",
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "3a29182c25eeabbaaf94daaeecbc7823d86261e7"
+		}
+	]
+}
